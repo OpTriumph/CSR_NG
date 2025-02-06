@@ -64,4 +64,4 @@ python pred.py --data_path='/YOUR_DATASET/YOUR_T2_MRI.nii.gz'\
 ```
 where ```data_path``` is the file name of your affinely aligned T2w brain MRI, and ```age``` is the scan age (week) of your subject. The predicted surfaces will be saved to your ```save_path``` in GIfTI format ```.surf.gii```. For visualization of the surfaces, we recommend to use [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench), which visualizes the predicted cortical surfaces as follows.
 
-<p align="center"><img src="figure/result.png" width="80%" ></p>
+
