@@ -1,7 +1,7 @@
 
 
 ## Installation
-The Conditional Temporal Attention Network (CoTAN) requires the following dependencies:
+requires the following dependencies:
 * PyTorch == 1.7.1
 * PyTorch3D == 0.4.0 (for training only)
 * Pandas == 1.2.4 (for training only)
